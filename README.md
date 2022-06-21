@@ -1,2 +1,2 @@
 # Video Processing with Pytorch
-In this repository, you will learn how to 
+In this repository, you will learn how to process videos,
